@@ -1,0 +1,33 @@
+.input{
+    margin-bottom: 28px;
+    width: 279px;
+    height: 36px;
+    text-align: left;
+    border: 2px solid black;
+   
+}
+.name{
+    width: 80px;
+    display: flex;
+    column-gap: 34px;
+    justify-content: flex-start;
+    vertical-align: middle;
+}
+
+.table{
+    margin-bottom: 28px;
+    margin-left: 40%;
+    width: 228px;
+    border: 2px solid black;
+    /* border-width: 50px; */
+    /* border-block-width: initial; */
+    height: 169px;
+}
+
+.btn{
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    cursor: pointer;
+}
